@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,4FAAI;AAGZ,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "../profile card/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
