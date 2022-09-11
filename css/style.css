@@ -24,7 +24,7 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url("assets/AdobeStock_333580439.jpeg") no-repeat center;
+  background: url("/assets/AdobeStock_333580439.jpeg") no-repeat center;
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 20s forwards;
           animation: backgroundZoomAnimate 20s forwards;
